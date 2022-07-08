@@ -1,0 +1,43 @@
+#anchor:visited {
+    color: white;
+    font-family: bold;
+  }
+#anchor1{
+  color:black;
+  font-family: bold;
+  font-size: large;
+  
+}
+.card{
+    height: 150px;
+    object-fit: cover;
+    text-align: center;
+    padding-bottom: 4rem;
+    opacity:0.9;
+
+}
+ 
+#bodycontainer{
+  position: center;
+  padding-left: 4rem;
+  background-image:url(./images/pigeons-homing-pigeon-dove-flying.jpg) ;
+  image-resolution: 100%;
+}
+
+.input-group rounded{
+  position: relative;
+}
+
+
+#card-footer{
+  position: relative;
+  justify-content: last baseline;
+}
+
+
+.dropdown:hover .dropdown-menu 
+{display: block;}
+
+.modal{
+  display:block
+}
